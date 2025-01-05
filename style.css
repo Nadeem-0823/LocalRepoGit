@@ -1,3 +1,8 @@
 p {
-    color: red
+    color: red;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+body {
+    background-color: bisque;
 }
